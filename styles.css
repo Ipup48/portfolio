@@ -30,7 +30,7 @@ body {
 
 /* Header */
 header {
-  background: #040405;
+  background: #1212da;
   color: #fff;
   padding: 20px 0;
 }
@@ -75,7 +75,7 @@ h2 {
 }
 
 .project {
-  background: #08cc18;
+  background: #15f015;
   padding: 20px;
   border-radius: 8px;
   width: 300px;
